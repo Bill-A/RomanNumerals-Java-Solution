@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.agileinnov.dojo.RomanNumeralTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-04-23T15:08:08" hostname="BillAir.local" time="0.041">
+  <properties/>
+  <testcase name="returnsIwhenGiven1" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.002"/>
+  <testcase name="returnsXwhenGiven10" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.006"/>
+  <testcase name="returnsIIwhenGiven2" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.001"/>
+  <testcase name="returnsMCMLVIIwhenGiven1957" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="returnsMCMXCIXwhenGiven1999" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="returnsXXIIIwhenGiven23" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="testSupportFor20s" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="returnsVwhenGiven5" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="returnsIVwhenGiven4" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="returnsXXwhenGiven20" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="returnsIIIwhenGiven3" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <testcase name="returnsXXXwhenGiven30" classname="com.agileinnov.dojo.RomanNumeralTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
